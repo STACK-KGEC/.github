@@ -1,15 +1,12 @@
-# ✨ Welcome to **STACK, KGEC**! 🚀
+![STACK Banner](banner.png)
 
-**Society for Technology, Advancement, and Computational Knowledge**  
-*Kalyani Government Engineering College*
+# ✨ Welcome to **STACK**! 🚀
 
----
+**Society for Technology, Advancement, and Computational Knowledge**
 
 ## 🌟 About Us
 
-**STACK, KGEC** is a community at [Kalyani Government Engineering College](https://www.google.com/maps?q=Kalyani+Government+Engineering+College), uniting passionate students, faculty, and alumni who are driven by curiosity, creativity, and a shared love for technology and innovation.
-
----
+**STACK** is a community uniting passionate students, faculty, and alumni who are driven by curiosity, creativity, and a shared love for technology and innovation.
 
 ## 🤝 How We Work
 
@@ -17,12 +14,10 @@
   We operate through dynamic teams, each dedicated to bringing a specific project, research paper, or innovative idea to life over several months.
 
 - **Mentorship & Learning:**  
-  Guided by experienced faculty and enthusiastic mentors, STACK members gain hands-on experience, turning concepts into reality.
+  Guided by experienced mentors, STACK members gain hands-on experience, turning concepts into reality.
 
 - **Continuous Growth:**  
-  Beyond projects, our members actively participate in classes and interactive sessions led by both internal and external experts - fostering continuous learning and professional growth within the college community.
-
----
+  Beyond projects, our members actively participate in classes and interactive sessions led by both internal and external experts—fostering continuous learning and professional growth within the community.
 
 ## 📚 What We Do
 
@@ -35,20 +30,7 @@
 
 ---
 
-## 📍 Location
-
-**Kalyani Government Engineering College**  
-Kalyani, Nadia, West Bengal, India
-
----
-
 ## 🚀 Join Us!
 
-Whether you’re a coder, designer, researcher, or tech enthusiast, **STACK, KGEC** welcomes you!  
+Whether you’re a coder, designer, researcher, or tech enthusiast, **STACK** welcomes you!  
 Connect, collaborate, and create the future with us.
-
-## 📬 Contact & Links
-
-- 📧 [Official College Website](https://www.kgec.edu.in)
-- 🌐 [Google Maps Location](https://www.google.com/maps?q=Kalyani+Government+Engineering+College)
-
