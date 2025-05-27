@@ -1,4 +1,4 @@
-![STACK Banner](banner.png)
+![STACK Banner](stack-banner.png)
 
 # ✨ Welcome to **STACK**! 🚀
 
