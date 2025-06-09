@@ -1,4 +1,4 @@
-![STACK Banner](stack-banner.png)
+![STACK Banner](stack-banner.jpg)
 
 # ✨ Welcome to **STACK, KGEC**! 🚀
 
